@@ -9,7 +9,9 @@ A student that completes this project shows that they can:
 
 # Introduction
 
-Variations on the Snack Bar Project have been part of Java Education 
+Variations o n the Snack Bar Project have been part of Java Education 
+
+
 since Java was created. So, we will do one. The point is to set up 
 vending machines where a person buys snacks from those machines.
 
